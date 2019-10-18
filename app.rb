@@ -4,11 +4,11 @@ class App < Sinatra::Base
 
 
     get '/' do
-      "Hello World"
+      "Hello World", "Hello, World!"
 
   end
 
   get '/' do
     "Hello, World!"
-  end 
+  end
 end

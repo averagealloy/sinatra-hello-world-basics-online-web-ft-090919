@@ -8,7 +8,4 @@ class App < Sinatra::Base
 
     end
 
-  # get '/' do
-  #   "Hello, World!"
-  # end
 end
